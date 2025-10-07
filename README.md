@@ -112,6 +112,25 @@ Possible Reasons:
 3- Introduce loyalty programs and promotions tailored to regional preferences.
 
 
+## 📑Sales Analysis Table
+<img width="1129" height="302" alt="Sales Analysis" src="https://github.com/user-attachments/assets/67ce17a1-6d58-48cf-9af5-068009289eeb" />
+
+
+
+## 📈 Dashboard Preview
+
+<img width="597" height="373" alt="Sales Trend" src="https://github.com/user-attachments/assets/ad82cd8a-1cde-471c-aaa1-dce6f58696b0" />
+
+<img width="1072" height="276" alt="% of Complete" src="https://github.com/user-attachments/assets/89aa7e60-c224-42fb-a467-231ffefa2c49" />
+
+<img width="295" height="375" alt="Customer Satisfaction" src="https://github.com/user-attachments/assets/19b59f5f-5be7-4a0a-955c-6a21ff492afd" />
+
+<img width="546" height="390" alt="Sales by Countries" src="https://github.com/user-attachments/assets/f1d02490-c4cf-4fcd-a4ba-d0581b7e68f7" />
+
+
+
+
+
 ## 💡 Recommendations
 
 - Operational Efficiency: Redesign internal workflows, reduce order preparation times, and apply lean management principles.
@@ -123,3 +142,9 @@ Possible Reasons:
 - Data Monitoring: Regularly update KPIs and dashboards to track monthly progress and close performance gaps.
 
 - Customer Engagement: Collect real-time feedback to identify dissatisfaction early and maintain high retention levels.
+
+
+## 🗂 Files in This Repository
+
+
+
