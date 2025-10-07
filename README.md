@@ -22,18 +22,104 @@ This project demonstrates how even with limited summarized data, Excel can be le
 
 ## 📊 Project Details
 
-Tools Used:
+### Tools Used:
 
-Microsoft Excel
+- Microsoft Excel
 
-Canva (for logo design)
+### Features Implemented:
 
-Features Implemented:
+- Conditional Formatting to visually analyze trends and patterns
 
-Conditional Formatting to visually analyze trends and patterns
+- Hyperlinks for easy navigation between sheets via sidebar images
 
-Hyperlinks for easy navigation between sheets via sidebar images
+- Hyperlink for direct communication with support (using a fictional email under the new brand)
 
-Hyperlink for direct communication with support (using a fictional email under the new brand)
+- Simple logo design on Canva, aligned with a green-themed brand identity reflecting healthy meals
 
-Simple logo design on Canva, aligned with a green-themed brand identity reflecting healthy meals
+
+## 🎯 Project Objectives
+
+The main objective of this project is to analyze restaurant performance data from multiple South American countries to uncover insights related to sales, profitability, and customer satisfaction.
+This analysis aims to identify operational gaps, seasonal sales variations, and service quality challenges, providing clear data-driven recommendations to improve both customer experience and overall profitability.
+
+
+## 🔑 Key Insights
+
+### 1. KPI Performance Gaps
+There are noticeable percentage gaps between sales, profit, and order completion:
+
+- Sales Gap: 15%
+
+- Profit Gap: 11%
+
+- Order Completion Gap: 13%
+
+These variations occur because profit does not increase linearly with sales — higher sales volumes may come with higher costs, promotions, or operational inefficiencies. Similarly, incomplete customer orders might indicate supply chain delays or insufficient workforce efficiency, leading to indirect effects on sales and profitability.
+
+### 2. Customer Satisfaction Overview
+Customer feedback reveals major weaknesses in speed and service quality, both performing around half of the expected benchmark:
+
+- Speed (54%):
+Operations are slow, likely due to inefficient layout design, poor workflow between cashier and kitchen, or limited preparation stations and resources.
+Suggested Improvements:
+
+1- Redesign the workspace for better accessibility.
+
+2- Introduce digital order tracking between cashier and kitchen.
+
+3- Implement time-based KPIs for staff and reward faster service.
+
+- Service (53%):
+Customer-facing employees require significant training in hospitality and communication skills.
+Suggested Improvements:
+
+1- Conduct regular service training and role-playing sessions.
+
+2- Introduce a feedback system for real-time customer input.
+
+3- Establish an incentive plan for excellent service behavior.
+
+- Availability (95%), Quality (86%), and Hygiene (93%) all performed well, showing strong inventory and quality management practices. These areas should continue to be monitored to maintain excellence.
+
+### 3. Sales & Profitability Trends
+Monthly performance across 2021 and 2022 shows stable yet fluctuating trends.
+Overall, 2022 outperformed 2021, with the only decline observed in May 2022, suggesting a potential seasonal or supply disruption.
+
+- Insights:
+
+Continuous month-to-month performance stability reflects healthy operations.
+
+Investigating the drop in May could uncover a pattern of supply shortage or staff unavailability.
+
+### 4. Regional Sales Distribution
+
+- Argentina achieved the highest sales, contributing over 25% of total revenue.
+
+- Chile recorded the lowest share at 7%.
+
+Possible Reasons:
+
+1- Argentina likely benefits from stronger purchasing power, brand recognition, or store density.
+
+2- Chile’s lower sales may be due to limited branches, weaker marketing reach, or pricing mismatches.
+
+### Recommendations for Improvement:
+
+1- Expand marketing and digital campaigns in lower-performing regions.
+
+2- Adjust pricing to local market expectations.
+
+3- Introduce loyalty programs and promotions tailored to regional preferences.
+
+
+## 💡 Recommendations
+
+- Operational Efficiency: Redesign internal workflows, reduce order preparation times, and apply lean management principles.
+
+- Employee Development: Implement continuous training focused on customer interaction, speed, and problem-solving.
+
+- Market Strategy: Strengthen presence in underperforming countries through promotions and localized menu options.
+
+- Data Monitoring: Regularly update KPIs and dashboards to track monthly progress and close performance gaps.
+
+- Customer Engagement: Collect real-time feedback to identify dissatisfaction early and maintain high retention levels.
